@@ -1,0 +1,1 @@
+/home/markwhsiao/guanxing/guanxing/thirdparty/typhoon-blade/vim/indent/blade_root.vim

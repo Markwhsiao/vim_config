@@ -1,0 +1,1 @@
+/home/markwhsiao/guanxing/guanxing/thirdparty/typhoon-blade/vim/ftdetect/blade_root.vim
